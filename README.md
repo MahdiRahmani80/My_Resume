@@ -18,8 +18,5 @@
 <p> Phone : <a href="#"><b> +98 933 083 2676 </b></a> (Telegram and WhatsApp) </p>
 <p> Linkedin : <a href="https://www.linkedin.com/in/mehdi-rahmani-180218202/"><b> Go to this Link </b></a><p>
 
-<p>Listen my story (Persian) :</p>
-
-<audio controls>
-  <source src="https://github.com/MahdiRahmani80/My_Resume/raw/main/MyStory.mp3" type="audio/mp3">
-</audio>
+  <hr>
+<p>You can listen to my resume!! ( Persian ) : <a href="https://github.com/MahdiRahmani80/My_Resume/raw/main/MyStory.mp3">Download</a> </p>
