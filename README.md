@@ -9,7 +9,7 @@
 <p> in <a href="https://www.beamjobs.com/"> beamjobs </a> (resume) :
   <a href="https://github.com/MahdiRahmani80/My_Resume/blob/main/resume.pdf" ><b> Download </b></a> 
 </p>
-<p> in <a href="https://jobinja.ir/"> Quera </a> (cv) :
+<p> in <a href="https://quera.ir/"> Quera </a> (cv) :
   <a href="https://github.com/MahdiRahmani80/My_Resume/raw/main/Mehdi%20Rahmani_1400-10-19.pdf" ><b> Download </b></a> 
 </p>
 
