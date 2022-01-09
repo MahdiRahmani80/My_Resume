@@ -9,8 +9,8 @@
 <p> in <a href="https://www.beamjobs.com/"> beamjobs </a> (resume) :
   <a href="https://github.com/MahdiRahmani80/My_Resume/blob/main/resume.pdf" ><b> Download </b></a> 
 </p>
-<p> in <a href="https://jobinja.ir/"> jobinja </a> (cv) :
-  <a href="https://raw.githubusercontent.com/MahdiRahmani80/My_Resume/e8f9269c466f49b794ce667bb179bd951a2a5280/Jobinja-KF-6299347(1).pdf" ><b> Download </b></a> 
+<p> in <a href="https://jobinja.ir/"> Quera </a> (cv) :
+  <a href="https://github.com/MahdiRahmani80/My_Resume/raw/main/Mehdi%20Rahmani_1400-10-19.pdf" ><b> Download </b></a> 
 </p>
 
 <hr>
