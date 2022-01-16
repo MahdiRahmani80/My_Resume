@@ -5,13 +5,9 @@
 
 <h4> You can view my resume file in PDF above :) </h4>
 
+<b><a href="https://github.com/MahdiRahmani80/My_Resume/raw/main/Untitled(1).pdf"> Download Resume </a></b>
 <br>
-<p> in <a href="https://www.beamjobs.com/"> beamjobs </a> (resume) :
-  <a href="https://github.com/MahdiRahmani80/My_Resume/blob/main/resume.pdf" ><b> Download </b></a> 
-</p>
-<p> in <a href="https://quera.ir/"> Quera </a> (cv) :
-  <a href="https://github.com/MahdiRahmani80/My_Resume/raw/main/Mehdi%20Rahmani_1400-10-19.pdf" ><b> Download </b></a> 
-</p>
+
 
 <hr>
 <p> Email : <a href="mailto:mahdirahmani8@yahoo.com"><b>mahdirahmani8@yahoo.com</b></a> </p>
