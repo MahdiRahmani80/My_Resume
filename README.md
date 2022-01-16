@@ -5,7 +5,7 @@
 
 <h4> You can view my resume file in PDF above :) </h4>
 
-<b><a href="https://github.com/MahdiRahmani80/My_Resume/raw/main/Untitled(1).pdf"> Download Resume </a></b>
+<b><a href="https://github.com/MahdiRahmani80/My_Resume/raw/main/cv.pdf"> Download Resume </a></b>
 <br>
 
 
